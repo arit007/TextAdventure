@@ -1,0 +1,3 @@
+﻿  GameCore.cpp
+C:\Users\Ari\Desktop\GMU\Coding For Game Design\MyTextAdventure\MyTextAdventure\GameCore.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MyTextAdventure.vcxproj -> C:\Users\Ari\Desktop\GMU\Coding For Game Design\MyTextAdventure\Debug\MyTextAdventure.exe

@@ -1,0 +1,24 @@
+My Text Adventure Instructions
+
+To Win
+------------------------
+Follow this path
+-Bridge
+-Corridor
+-Cafeteria
+-Supply Closet -> pick up the key here
+
+Next travel back to the Corridor.
+Go into the Barracks -> into the Escape Pods.
+
+
+
+To Lose
+------------------------
+Follow this path
+-Bridge
+-Corridor
+-Cafeteria
+-Supply Closet -> pick up the key here
+
+Next travel back to the Corridor and go into the Hangar.
